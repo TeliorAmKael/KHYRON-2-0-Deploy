@@ -1,0 +1,1 @@
+web: streamlit run khyron_web.py

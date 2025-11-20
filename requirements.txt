@@ -1,3 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-google-genai
+chromadb
+python-dotenv
+gdown
+pysqlite3-binary
 aiohappyeyeballs==2.6.1
 aiohttp==3.13.2
 aiosignal==1.4.0
